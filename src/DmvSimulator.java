@@ -23,7 +23,7 @@ public class DmvSimulator {
 			System.out.println(i);
 		}
 		
-		System.out.println("You don't have the required paperwork");
+		System.out.println("You don't have the required paperwork. Have an awful day!");
 		
 		System.out.println("Exitting the program...");
 	}
