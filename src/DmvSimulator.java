@@ -28,9 +28,17 @@ public class DmvSimulator {
 			System.out.println(i);
 		}
 		
+		if((int)Math.random()*100 <= 98)
+		{
 		System.out.println("You don't have the required paperwork. Have an awful day!");
 		
 		System.out.println("Exitting the program...");
+		}
+		
+		else {
+			
+			System.out.println("You have all of the paperwork.");
+		}
 	}
 }
 
