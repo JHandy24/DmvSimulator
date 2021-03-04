@@ -17,6 +17,11 @@ public class DmvSimulator {
 			System.out.println(i);
 		}
 		
+		for(int i = number + 1; i <= 200; i++)
+		{
+			System.out.println(i);
+		}
+		
 		for(int i = 1; i < number; i++)
 		{
 			
